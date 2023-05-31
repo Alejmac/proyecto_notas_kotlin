@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">notes</string>
+    <string name="hint_description">escribe algo</string>
+    <string name="Dialog_title">eliminra nota?</string>
+    <string name="Dialog_ok">Eliminar</string>
+</resources>
